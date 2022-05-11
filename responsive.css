@@ -1,0 +1,150 @@
+@media only screen and (max-width: 1488px) {
+    .loginBtn{
+        margin-left: 5px;
+    }
+}
+
+@media only screen and (max-width: 1098px) {
+          .containerList{
+           margin-left: -150px;
+      }
+}
+
+@media only screen and (max-width: 942px) {
+           .loginBtn{
+               margin-left: 725px;
+           }
+}
+
+@media only screen and (max-width:824px) {
+    .loginBtn{
+       margin-left: 21px;
+    }
+}
+
+@media only screen and (max-width:694px) {
+    .loginBtn{
+       margin-left: 400px;
+    }
+}
+
+@media only screen and (max-width:502px) {
+   .header{
+       margin-left: -80px;
+   }
+}
+
+@media only screen and (max-width:500px) {
+    .H1{
+        margin-left: 100px;
+    }
+ }
+
+@media only screen and (max-width:454px) {
+    .H1{
+        margin-left: 100px;
+    }
+ }
+
+ @media only screen and (max-width:426px) {
+    .nav{
+        margin-left: 205px;
+        margin-top: 25px;
+    }
+ }
+
+
+ @media only screen and (max-width:424px) {
+    .loginBtn{
+            margin-left: 11px;
+    }
+ }
+
+ @media only screen and (max-width:1242px) {
+     .center{
+         margin-left: 200px;
+     }
+ }
+
+ @media only screen and (max-width:1392px) {
+    .center{
+        margin-left: 200px;
+    }
+}
+
+@media only screen and (max-width:1214px) {
+    .center{
+        margin-left: 250px;
+    }
+}
+
+@media only screen and (max-width:1144px) {
+    .center{
+        margin-left: 270px;
+    }
+}
+
+@media only screen and (max-width:1092px) {
+    .center{
+        margin-left: 400px;
+    }
+}
+
+@media only screen and (max-width:966px) {
+    .center{
+        margin-left: 500px;
+    }
+}
+
+@media only screen and (max-width:814px) {
+    .center{
+        margin-left: 600px;
+    }
+}
+
+@media only screen and (max-width:727px) {
+    .center{
+        margin-left: 700px;
+    }
+}
+
+@media only screen and (max-width:697px) {
+    .loginBtn{
+        margin-left: 400px;
+    }
+}
+
+@media only screen and (max-width:471px) {
+    .center{
+        margin-left: 665px;
+    }
+}
+
+@media only screen and (max-width:423px) {
+    .loginBtn{
+        margin-left: -5px;
+        margin-top: 5px;
+    }
+    p{
+        font-size: 13px;
+    }
+
+    h3{
+        font-size: 10px;
+    }
+    .textContText{
+        margin-left: -70px;
+    }
+}
+
+@media only screen and (max-width:832px) {
+    .container{
+        margin-left: -75px;
+    }
+}
+
+@media only screen and (max-width:848px) {
+    .container{
+        margin-left: -20px;
+    }
+}
